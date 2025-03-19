@@ -28,6 +28,7 @@ function verificarIntento() {
         limpiarCaja();
     }
     return;
+    console.log("hola");
 }
 
 function limpiarCaja() {
